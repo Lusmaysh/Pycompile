@@ -1,7 +1,7 @@
 import base64,zlib,marshal,sys,os
 os.system("cls" if os.name=="nt" else "clear")
 print("""
-_______ ___ ___ _______ ______  _______
+ _______ ___ ___ _______ ______  _______
 |   _   |   Y   |   _   |   _  \|   _   |
 |.  1   |   1   |.  1___|.  |   |.  1___|  [*] Support Python2 And Python3
 |.  ____|\_   _/|.  __)_|.  |   |.  |___   [*] Python Encode By Lusmaysh
